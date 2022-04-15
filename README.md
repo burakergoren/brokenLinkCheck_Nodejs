@@ -1,1 +1,2 @@
-# brokenLinkCheck_Nodejs
+npm install
+node index.js
