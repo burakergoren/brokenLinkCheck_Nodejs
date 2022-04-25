@@ -1,2 +1,1 @@
-- npm install
-- node index.js
+## This is a sample nodejs broken link check demo project, related medium article link is [here](https://medium.com/sahibinden-technology/how-to-check-broken-links-in-a-single-web-page-programmatically-c36561e3eb2f)
